@@ -1,0 +1,11 @@
+html
+{
+	font-family: Helvetica;
+	background-color: #DDD;
+}
+
+.container
+{
+	max-width: 1200px;
+	background-color: #FFF;
+}
